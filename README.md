@@ -3,9 +3,7 @@
 
 ## About me
 
-I'm a Data Scientist with an MSc in Computer Science from the University of Liège and a background in machine learning, applied research, and data analysis.
-
-I like to understand the problem before choosing the tools. In a warehouse inventory project, I evaluated computer vision for counting tyres, but the available images couldn't support reliable predictions. Instead, I recommended a weight-based solution. I believe the best solution is not necessarily the most technologically complex one.
+I work with machine learning, data analysis, and applied research. I enjoy understanding problems, exploring different approaches, and finding practical solutions rather than focusing on technology for its own sake.
 
 ## Technical skills
 
