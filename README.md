@@ -7,9 +7,39 @@ I work with machine learning, data analysis, and applied research. I enjoy under
 
 ## Tech Stack
 
-| Programming | Machine Learning | Data Analytics |
-| --- | --- | --- |
-| Python, Julia, Java | [PyTorch, JAX](https://github.com/Bortrex/lunarlander-gradient-free-rl), TensorFlow, scikit-learn | pandas, NumPy, Power BI, PostgreSQL  |
+<table align="center">
+  <tr>
+    <th align="center">Programming</th>
+    <th align="center">Machine Learning</th>
+    <th align="center">Data Analytics</th>
+    <th align="center">Methods & Practices</th>
+  </tr>
+  <tr>
+    <td align="center">
+      Python<br>
+      Julia<br>
+      Java
+    </td>
+    <td align="center">
+      PyTorch <br>
+      <a href="https://github.com/Bortrex/lunarlander-gradient-free-rl">JAX</a><br>
+      TensorFlow<br>
+      scikit-learn
+    </td>
+    <td align="center">
+      pandas<br> NumPy<br>
+      Power BI<br>
+      PostgreSQL
+    </td>
+    <td align="center">
+      Statistical analysis<br>
+      Computer vision<br>
+      Reinforcement learning<br>
+      Agile/Scrum
+    </td>
+  </tr>
+</table>
+
 
 ## Projects
 
